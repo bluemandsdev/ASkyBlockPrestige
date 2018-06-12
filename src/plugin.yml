@@ -1,0 +1,8 @@
+name: ASkyBlockPrestige
+version: 3.0
+author: bluemands_dev
+main: ASkyBlock.Prestige.ASkyBlockPrestige
+
+commands:
+   prestige:
+     aliases: [p]

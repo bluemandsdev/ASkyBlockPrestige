@@ -1,0 +1,40 @@
+# ASkyBlockPrestige
+# Version 3.0
+prefix:
+  show: true
+
+prestige:
+# Set the level the user can prestige at
+  level: 10000
+
+# Set the maximum prestige
+  max: 10
+
+# Set the reward for prestige's
+  reward:
+    1: give %player% gold_block
+    2: give %player% gold_block
+    3: give %player% gold_block
+    4: give %player% gold_block
+    5: give %player% gold_block
+    6: give %player% gold_block
+    7: give %player% gold_block
+    8: give %player% gold_block
+    9: give %player% gold_block
+    10: give %player% gold_block
+
+# Set name color for user prestige, Usage <Color>          http://minecraft.tools/en/color-code.php
+  namecolor:
+    show: true
+    0: '&f'
+    1: '&f'
+    2: '&f'
+    3: '&f'
+    4: '&f'
+    5: '&f'
+    6: '&f'
+    7: '&f'
+    8: '&f'
+    9: '&f'
+    10: '&b'
+
